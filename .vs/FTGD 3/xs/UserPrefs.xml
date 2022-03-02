@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{0BEA53F5-7C96-0599-89D5-5DAC6EACE5D2}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/scripts/Collectable.cs">
+    <Files>
+      <File FileName="Assets/scripts/NewPlayer.cs" Line="23" Column="20" />
+      <File FileName="Assets/scripts/Collectable.cs" Line="43" Column="43" />
+      <File FileName="Assets/scripts/PhysicsObject.cs" />
+      <File FileName="Assets/scripts/Parallax/ParallaxController.cs" />
+      <File FileName="Assets/scripts/Parallax/ParallaxLayer.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="FTGD 3" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="scripts" expanded="True">
+                <Node name="Parallax" expanded="True" />
+                <Node name="Collectable.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="9454e779-3868-487c-866a-c87296ce2860" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
